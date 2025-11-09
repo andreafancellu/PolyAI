@@ -1,5 +1,5 @@
 # PolyAI
-**PolyAI** explores the use of Machine Learning and Deep Learning for polymer classification and quantitative prediction of recycled material content in blends.
+**PolyAI** explores the use of Machine Learning for polymer classification and quantitative prediction of recycled material content in blends.
 
 ## 🎯 Goals
 - **Polymer Classification**. Identify the polymer type based on chemical and structural features. Given the tabular nature of the dataset, containing both numerical and categorical variables, the project adopts a **Random Forest classifier**, an ensemble learning method that constructs multiple decision trees on bootstrapped subsets of the data and combines their outputs through majority voting.
