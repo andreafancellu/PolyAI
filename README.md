@@ -12,3 +12,4 @@ Gradient boosting offers high accuracy for tabular regression problems and can c
 Hyperparameter tuning and cross-validation are applied to ensure robustness and generalization despite the limited dataset size.
 
 
+<img width="1231" height="1299" alt="image" src="https://github.com/user-attachments/assets/2c73e490-88bb-4b65-8d8d-35962f4d7c47" />
