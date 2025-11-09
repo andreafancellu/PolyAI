@@ -1,5 +1,6 @@
 # PolyAI
-**PolyAI** explores the use of Machine Learning for polymer classification and quantitative prediction of recycled material content in blends.
+Polymers are large molecular structures composed of repeating subunits (monomers) that form the basis of most plastics and rubbers, each type exhibiting distinct chemical, structural, and mechanical properties.
+By applying data-driven Machine Learning techniques, PolyAI seeks to automatically identify polymer types and estimate the percentage of recycled material in polymer blends, supporting the development of more sustainable recycling processes.
 
 ## 🎯 Goals
 - **Polymer Classification**. Identify the polymer type based on chemical and structural features. Given the tabular nature of the dataset, containing both numerical and categorical variables, the project adopts a **Random Forest classifier**, an ensemble learning method that constructs multiple decision trees on bootstrapped subsets of the data and combines their outputs through majority voting.
