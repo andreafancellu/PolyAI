@@ -10,3 +10,5 @@ By applying data-driven Machine Learning techniques, PolyAI seeks to automatical
 - Improving random forest predictions in small datasets from two-phase sampling designs: https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01688-3
 - The predictive performances of random forest models with limited sample size and different species traits: https://www.sciencedirect.com/science/article/abs/pii/S0165783620300515
 - Impact of Dataset Size on Classification Performance: An Empirical Evaluation in the Medical Domain: https://www.mdpi.com/2076-3417/11/2/796
+- Small data machine learning in materials science: https://www.nature.com/articles/s41524-023-01000-z
+- Ten deep learning techniques to address small data problems with remote sensing: https://www.sciencedirect.com/science/article/pii/S156984322300393X
