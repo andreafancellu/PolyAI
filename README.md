@@ -12,3 +12,7 @@ By applying data-driven Machine Learning techniques, PolyAI seeks to automatical
 - Impact of Dataset Size on Classification Performance: An Empirical Evaluation in the Medical Domain: https://www.mdpi.com/2076-3417/11/2/796
 - Small data machine learning in materials science: https://www.nature.com/articles/s41524-023-01000-z
 - Ten deep learning techniques to address small data problems with remote sensing: https://www.sciencedirect.com/science/article/pii/S156984322300393X
+- Machine learning on small size samples: A synthetic knowledge synthesis: https://pmc.ncbi.nlm.nih.gov/articles/PMC10358596/
+
+### TODO
+- Try NB and SVM classifiers
