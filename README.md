@@ -13,3 +13,7 @@ Hyperparameter tuning and cross-validation are applied to ensure robustness and 
 
 
 <img width="1231" height="1299" alt="image" src="https://github.com/user-attachments/assets/2c73e490-88bb-4b65-8d8d-35962f4d7c47" />
+
+## Papers and Resources
+- https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01688-3
+- https://www.sciencedirect.com/science/article/abs/pii/S0165783620300515
